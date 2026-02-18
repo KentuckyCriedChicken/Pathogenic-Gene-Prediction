@@ -1,2 +1,2 @@
-# Gene-Prediction
-A deep neural network to predict the pathogenicity of variant genes
+# Pathogenic-Variant-Prediction
+This project implements a deep learning model designed to predict whether a human
